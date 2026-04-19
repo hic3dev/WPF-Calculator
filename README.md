@@ -10,7 +10,7 @@
 
 ## Скриншот
 
-[Скриншот калькулятора](images/calculator.png)
+[Скриншот калькулятора](Calculator/images/calculator.png)
 
 ## Как запустить
 
