@@ -10,7 +10,7 @@
 
 ## Скриншот
 
-[Скриншот калькулятора](Calculator/images/calculator.png)
+[Скриншот калькулятора]<img width="781" height="438" alt="image" src="https://github.com/user-attachments/assets/58181e86-2c00-42d9-ace9-45363e308093" />
 
 ## Как запустить
 
